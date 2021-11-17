@@ -7,3 +7,9 @@ This dataset is described in the paper "A Weakly Supervised Dataset of Fine-Grai
 
 Please note that in respect of twitter's terms of use, we only make available the Tweet_ID associated with each annotated category.
 To collect the sentence text, the researcher must collect it directly from the Twitter API using the Tweet ID list.
+
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/16292535/142294170-9b1ba187-49bc-4d57-ba8d-96e5f6384139.png" alt="CEWEB.br" target="https://CEWEB.br" width="100"> 
+    <img src="https://user-images.githubusercontent.com/16292535/142294159-418b8c6d-a37c-4255-92ce-0b16cc003358.png" alt="nic.br" target="https://nic.br" width="100">
+</p>
